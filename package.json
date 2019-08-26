@@ -2,7 +2,7 @@
   "name": "nordstrom-web-scraper",
   "version": "1.0.0",
   "description": "A web scraper that will take the price of some clothing items I want and notify me when the price drops.",
-  "main": "index.js",
+  "main": "shoeScraper.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
